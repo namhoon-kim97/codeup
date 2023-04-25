@@ -1,6 +1,4 @@
-package com.example.codeup.codeup.first;
-
-import java.util.Scanner;
+package com.example.codeup.codeup.ones;
 
 public class CodeUp1006 {
     public static void main(String[] args) {
