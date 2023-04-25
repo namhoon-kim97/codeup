@@ -1,4 +1,4 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.thirties;
 
 import java.math.BigInteger;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.first;
 
 public class CodeUp1008 {
     public static void main(String[] args) {

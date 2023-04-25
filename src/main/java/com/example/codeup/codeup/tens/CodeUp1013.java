@@ -1,4 +1,4 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.tens;
 
 import java.util.Scanner;
 

@@ -1,11 +1,11 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.twenties;
 
 import java.util.Scanner;
 
-public class CodeUp1010 {
+public class CodeUp1028 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
+        long num = sc.nextLong();
         System.out.println(num);
     }
 }

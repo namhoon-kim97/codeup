@@ -1,4 +1,4 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.twenties;
 import java.util.Scanner;
 
 public class CodeUp1029 {

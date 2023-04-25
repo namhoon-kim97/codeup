@@ -1,11 +1,11 @@
-package com.example.codeup.codeup;
+package com.example.codeup.codeup.tens;
 
 import java.util.Scanner;
 
-public class CodeUp1028 {
+public class CodeUp1010 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        long num = sc.nextLong();
+        int num = sc.nextInt();
         System.out.println(num);
     }
 }
