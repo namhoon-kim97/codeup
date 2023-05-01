@@ -1,8 +1,8 @@
-package com.example.codeup.codeup.CodeUp1100;
+package com.example.codeup.codeup.CodeUp1070;
 
 import java.util.Scanner;
 
-public class CodeUp1071 {
+public class CodeUp1073 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int val = sc.nextInt();
