@@ -12,5 +12,12 @@ public class CodeUp1287 {
             }
             System.out.printf("\n");
         }
+
+        // 직각삼각형 만들기
+        /*for(int i = 0; i < count; i++){
+            for(int j = 0; j <= i; j++)
+                System.out.printf("*");
+            System.out.println("");
+        }*/
     }
 }
